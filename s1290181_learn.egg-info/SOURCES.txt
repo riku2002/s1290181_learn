@@ -1,0 +1,7 @@
+README.md
+setup.py
+s1290181_learn.egg-info/PKG-INFO
+s1290181_learn.egg-info/SOURCES.txt
+s1290181_learn.egg-info/dependency_links.txt
+s1290181_learn.egg-info/requires.txt
+s1290181_learn.egg-info/top_level.txt
