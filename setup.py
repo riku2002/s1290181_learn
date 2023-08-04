@@ -1,7 +1,10 @@
-from setuptools import setup
+import setuptools
 
-setup(
+setuptools.setup(
     name="s1290181_learn",
-    version="2023.07.28",
-    install_requires=['pandas', 'plotly','pami', 're', 'pami'],
+    version="1.0.0",
+    author="TakanoRiku",
+    license='MIT',
+    packages=setuptools.find_packages(),
+    install_requires=['pandas', 'plotly','pami'],
 )
